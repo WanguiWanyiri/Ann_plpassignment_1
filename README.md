@@ -4,7 +4,8 @@
 ## Part 1: Introduction to Software Engineering
 
 ### Explain what software engineering is and discuss its importance in the technology industry.
-Software Engineering is a systematic application of engineering principles, methods and tools to the development and maintenance of high quality software systems and it is important as it plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life e.g healthcare.
+> Software Engineering is a systematic application of engineering principles, methods and tools to the development and maintenance of high quality software systems and it is important as it plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life e.g healthcare.
+>
 
 ### Identify and describe at least three key milestones in the evolution of software engineering.
 1. Development of programming languages e.g Fotran, C
