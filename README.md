@@ -35,11 +35,11 @@ A scenario for waterfall methodlogy would be a large scale software developmnt p
 >
 ### What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 > challenges faced by software engineers include:
-1. Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
-2. Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
-3. Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
-Strategies for Overcoming Challenges: Effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
->
+> 1. Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+> 2. Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+> 3. Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+> Strategies for Overcoming Challenges: Effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
+
 ### Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 > 1. Unit Testing: Testing individual components or modules of software.
 > 2. Integration Testing: Testing interactions between different components or subsystems.
