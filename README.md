@@ -22,9 +22,9 @@
 6. Maintenance -Provide ongoing support updates and enhancements tp the software after deployment. 
 
 ### Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall methodology is a sequential approach with distint phases flowing downwards like a waterfall e.g requirements, design and implementation, It is best suited for projects with well defined requirements that are inlikely to change, whereas Agile methodology is an iterative and incremental approach focused on flexibility, collaboration and responding to change, it is best suited for projects with changing requirements or a high degree of uncertainty. 
-A scenario for waterfall methodlogy would be a large scale software developmnt project with a clear set of requirements tha areunlikely to change significantly overtime. An example includes building a new software system for a financial institution whereas agile methodology scenario would be a project with changing requirements or where the team needs to respondquickly to feedback.An example would be developing a mobile app that requires multiple iterations of user testing and feature development.
-
+> Waterfall methodology is a sequential approach with distint phases flowing downwards like a waterfall e.g requirements, design and implementation, It is best suited for projects with well defined requirements that are inlikely to change, whereas Agile methodology is an iterative and incremental approach focused on flexibility, collaboration and responding to change, it is best suited for projects with changing requirements or a high degree of uncertainty. 
+A scenario for waterfall methodlogy would be a large scale software developmnt project with a clear set of requirements tha areunlikely to change significantly overtime. An example includes building a new software system for a financial institution whereas agile methodology scenario would be a project with changing requirements or where the team needs to respond quickly to feedback.An example would be developing a mobile app that requires multiple iterations of user testing and feature development.
+>
 ### Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 A software developer is responsible for writing code and implementing software solutions.
 A quality Assuarance Engineer is responsible in ensuring software quality by designing and executing test plans.
