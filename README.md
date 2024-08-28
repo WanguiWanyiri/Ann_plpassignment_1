@@ -8,11 +8,10 @@
 >
 
 ### Identify and describe at least three key milestones in the evolution of software engineering.
->
-1. Development of programming languages e.g Fotran, C
-2. Establishment of software engieering as a discipline in the 1960s
-3. Arrival/Onset of structured programming in the 1970s
->
+> 1. Development of programming languages e.g Fotran, C
+> 2. Establishment of software engieering as a discipline in the 1960s
+> 3. Arrival/Onset of structured programming in the 1970s
+
 
 ### List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirements -Gathering and documenting user needs and system requirements.
